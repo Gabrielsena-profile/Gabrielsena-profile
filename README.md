@@ -140,14 +140,14 @@ I'm Gabriel Sena, a Data Engineer with 6+ years of experience specializing in bu
       alt="GitHub Stats" 
       height="200" 
       style="padding-right: 10px;" 
-      src="https://github-readme-stats.vercel.app/api?username=gabrielsena-profile&show_icons=true&theme=tokyonight&count_private=true&token=${{secrets.TOKEN_GITHUB_STATS}}"
+      src="https://github-readme-stats.vercel.app/api?username=gabrielsena-profile&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"
   />
-    <img 
-        align="left" 
-        alt="GitHub Stats" 
-        height="200" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsena-profile&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9&count_private=true&token=${{secrets.TOKEN_GITHUB_STATS}}"
-
+  <img 
+      align="left" 
+      alt="Most Used Languages" 
+      height="180" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsena-profile&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9&count_private=true&include_all_commits=true"
+  />
 </p>
 
 
