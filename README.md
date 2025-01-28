@@ -146,7 +146,7 @@ I'm Gabriel Sena, a Data Engineer with 6+ years of experience specializing in bu
       align="left" 
       alt="Most Used Languages" 
       height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsena-profile&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9&include_all_commits=true"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsena-profile&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9&count_private=true&include_all_commits=true"
   />
 </p>
 
